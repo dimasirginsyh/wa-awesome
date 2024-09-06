@@ -1,0 +1,17 @@
+{
+  "name": "wa-awesome",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Dimas Irgi",
+  "license": "MIT",
+  "description": "Whatsapp bisa ngapain aja?",
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.25.0"
+  }
+}
