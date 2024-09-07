@@ -3,6 +3,10 @@
 
 Kamu penasaran apa yang dia kirim kepadamu menggunakan pesan sekali lihat?
 
+## Alat dan bahan
+- PC / Laptop
+- Node.js
+- NPM
 
 ## Installation
 
